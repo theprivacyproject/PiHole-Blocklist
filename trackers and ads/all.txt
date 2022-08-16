@@ -1,0 +1,59 @@
+# Google
+www.googleadservices.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+ssl.google-analytics.com
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
+federatedml-pa.googleapis.com
+appspot-preview.l.google.com
+
+# Crashlytics
+e.crashlytics.com
+reports.crashlytics.com
+settings.crashlytics.com
+
+# Snapchat
+sc-analytics.appspot.com
+app-analytics.snapchat.com
+adserver.snapads.com
+euw.adserver.snapads.com
+euc.adserver.snapads.com
+usc.adserver.snapads.com
+ase.adserver.snapads.com
+tr.snapchat.com
+
+# Twitter 
+ads.twitter.com
+
+# Whatsapp
+crashlogs.whatsapp.net
+
+# Lightspeed Systems
+lsrelay-extensions-production.s3.amazonaws.com
+lsrelayaccess.com
+lsrelay-config-production.s3.amazonaws.com
+b16rt683ll.execute-api.us-west-2.amazonaws.com
+rs-db.lsfilter.com
+reporting-api.relay.school
+production-gc.lsfilter.com
+pki.lsmdm.com
+uploader.lsmdm.com
+*.devices.lsmdm.com
+production-categorizations-device-api.lsfilter.com
+analytics-device-api.lightspeedsystems.com
+
+# Pintrest
+trk.pinterest.com
+
+# Microsoft 
+clarity.ms
+
+# Apple
+stats.gc.apple.com
+iadsdk.apple.com
+
+# Live Traffic Feed
+cdn.livetrafficfeed.com/static/hitcounterjs/live.js
