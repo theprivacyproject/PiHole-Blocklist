@@ -4,15 +4,6 @@
 <br>
 <h2 align="center">Quick Info</h2>
 <table align="center">
-<colgroup>
-<col style="width: 147px">
-<col style="width: 59px">
-<col style="width: 50px">
-<col style="width: 40px">
-<col style="width: 65px">
-<col style="width: 56px">
-<col style="width: 169px">
-</colgroup>
 <thead>
   <tr>
     <th>Source</th>
