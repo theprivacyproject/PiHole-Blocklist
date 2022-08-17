@@ -29,7 +29,7 @@
 0.0.0.0 r18---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r19---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r20---sn-n4v7knlz.googlevideo.com
-0.0.0.0 0.0.0.0 r1---sn-a5mlrn7z.googlevideo.com
+0.0.0.0 r1---sn-a5mlrn7z.googlevideo.com
 0.0.0.0 r2---sn-a5mlrn7z.googlevideo.com
 0.0.0.0 r3---sn-a5mlrn7z.googlevideo.com
 0.0.0.0 r4---sn-a5mlrn7z.googlevideo.com
@@ -49,7 +49,7 @@
 0.0.0.0 r18---sn-a5mlrn7z.googlevideo.com
 0.0.0.0 r19---sn-a5mlrn7z.googlevideo.com
 0.0.0.0 r20---sn-a5mlrn7z.googlevideo.com
-0.0.0.0 0.0.0.0 r1---sn-a5msen76.googlevideo.com
+0.0.0.0 r1---sn-a5msen76.googlevideo.com
 0.0.0.0 r2---sn-a5msen76.googlevideo.com
 0.0.0.0 r3---sn-a5msen76.googlevideo.com
 0.0.0.0 r4---sn-a5msen76.googlevideo.com
@@ -69,7 +69,7 @@
 0.0.0.0 r18---sn-a5msen76.googlevideo.com
 0.0.0.0 r19---sn-a5msen76.googlevideo.com
 0.0.0.0 r20---sn-a5msen76.googlevideo.com
-0.0.0.0 0.0.0.0 r1---sn-5hne6nlk.googlevideo.com
+0.0.0.0 r1---sn-5hne6nlk.googlevideo.com
 0.0.0.0 r2---sn-5hne6nlk.googlevideo.com
 0.0.0.0 r3---sn-5hne6nlk.googlevideo.com
 0.0.0.0 r4---sn-5hne6nlk.googlevideo.com
@@ -16465,9 +16465,7 @@ rr4.sn-o097znsk.googlevideo.com
 rr4---sn-o097znsr.googlevideo.com
 rr4.sn-o097znsr.googlevideo.com
 r4.sn-a5mlrn7k.googlevideo.com
-=======
 rr3---sn-jvhj5nu-nh4s.googlevideo.com 
->>>>>>> 6dbd05af56bad9d2acdfb67ff9c9b1d5f0e1da7a
 rr6---sn-a5mekner.googlevideo.com
 rr6.sn-a5mekner.googlevideo.com
 rr5---sn-o097znsk.googlevideo.com
@@ -16595,7 +16593,7 @@ r3.sn-nx57ynld.googlevideo.com
 r2.sn-a5meknll.googlevideo.com
 rr2---sn-a5mekn6l.googlevideo.com
 rr2.sn-a5mekn6l.googlevideo.com
-r0.0.0.0 r1---sn-a5mekn6d.googlevideo.com
+0.0.0.0 r1---sn-a5mekn6d.googlevideo.com
 rr1.sn-a5mekn6d.googlevideo.com
 rr4---sn-o097znld.googlevideo.com
 rr4.sn-o097znld.googlevideo.com
@@ -16756,7 +16754,7 @@ rr4---sn-a5msen7z.googlevideo.com
 rr4.sn-a5msen7z.googlevideo.com
 rr4---sn-a5mekn6s.googlevideo.com
 rr4.sn-a5mekn6s.googlevideo.com
-r0.0.0.0 r1---sn-uhvcpax0n5-nh4l.googlevideo.com
+0.0.0.0 r1---sn-uhvcpax0n5-nh4l.googlevideo.com
 rr1.sn-uhvcpax0n5-nh4l.googlevideo.com
 rr4---sn-uhvcpax0n5-nh4l.googlevideo.com
 rr4.sn-uhvcpax0n5-nh4l.googlevideo.com
@@ -16903,7 +16901,7 @@ r3.sn-a5meknsy.googlevideo.com
 0.0.0.0 trk.pinterest.com
 
 # Microsoft 
-clarity.ms
+0.0.0.0 clarity.ms
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
@@ -16916,7 +16914,7 @@ clarity.ms
 0.0.0.0 ads1.msn.com
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 apac1.notify.windows.com.akadns.net
-0.0.0.0 api.cortana.ai
+# 0.0.0.0 api.cortana.ai
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
@@ -17094,7 +17092,24 @@ clarity.ms
 0.0.0.0 iadsdk.apple.com
 
 # Live Traffic Feed
-0.0.0.0 cdn.livetrafficfeed.com/static/hitcounterjs/live.js
+0.0.0.0 cdn.livetrafficfeed.com
 
 # Hit Web Counter
-0.0.0.0 hitwebcounter.com/counter/counter.php
+0.0.0.0 hitwebcounter.com
+
+# Add This
+0.0.0.0 api.addthis.com
+0.0.0.0 api-public.addthis.com
+0.0.0.0 cw.addthis.com
+0.0.0.0 dlx.addthis.com
+0.0.0.0 e.dlx.addthis.com
+0.0.0.0 m.dlx.addthis.com
+0.0.0.0 p.dlx.addthis.com
+0.0.0.0 x.dlx.addthis.com
+0.0.0.0 edge.addthis.com
+0.0.0.0 m.addthis.com
+0.0.0.0 q.addthis.com
+0.0.0.0 s7.addthis.com
+0.0.0.0 s8.addthis.com
+0.0.0.0 su.addthis.com
+0.0.0.0 v1.addthis.com
